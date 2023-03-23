@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rdlocrand"]
+	path = rdlocrand
+	url = https://github.com/cran/rdlocrand
+	shallow = true
+	registered = true
+[submodule "rdmulti"]
+	path = rdmulti
+	url = https://github.com/cran/rdmulti
+	shallow = true
+	registered = true
+[submodule "rdpower"]
+	path = rdpower
+	url = https://github.com/cran/rdpower
+	shallow = true
+	registered = true
